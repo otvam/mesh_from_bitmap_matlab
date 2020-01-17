@@ -1,7 +1,7 @@
 # MATLAB code for generating a mesh from a bitmap image
 
-This **MATLAB** code generates a mesh from a black and white bitmap image:
-* Find the contour of a black and white bitmap image
+This **MATLAB** code generates a **mesh** from a black and white **bitmap image**:
+* Find the contour of a black and white bitmap image (raster)
 * Simplify the contour with a specified tolerance
 * Mesh the shape (handling of holes and multiple domains)
 
