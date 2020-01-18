@@ -1,6 +1,6 @@
 function mesh = get_mesh(img_data)
 %GET_MESH Transform a 2d image a 2d FEM PDE mesh.
-%   fv = GET_MESH(img_data, merge_data)
+%   fv = GET_MESH(img_data)
 %   img_data - information for transformer the images to plates (struct)
 %      img_data.img - color image with the contour information (matrix)
 %      img_data.scale - size per pixel of the image (scalar)
