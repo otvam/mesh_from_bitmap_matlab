@@ -6,7 +6,7 @@ This **MATLAB** code generates a **mesh** from a black and white **bitmap image*
 * Mesh the shape (handling of holes and multiple domains)
 
 This code uses the MATLAB PDE toolbox and generatates a FEM mesh (FEMesh object).
-However, the mesh can be used for other purposes that FEM simulations, such as 3d printing.
+However, the mesh can be used for other purposes that **FEM simulations**, such as **3d printing**.
 
 Look at the example [run_example.m](run_example.m) which generates the following mesh:
 
