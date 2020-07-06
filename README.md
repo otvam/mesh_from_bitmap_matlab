@@ -1,4 +1,4 @@
-# MATLAB code for generating a mesh from a bitmap image
+# MATLAB Code for Creating a Mesh from a Bitmap Image
 
 This **MATLAB** code generates a **mesh** from a black and white **bitmap image**:
 * Find the contour of a black and white bitmap image (raster)
@@ -7,6 +7,8 @@ This **MATLAB** code generates a **mesh** from a black and white **bitmap image*
 
 This code uses the MATLAB PDE toolbox and generatates a FEM mesh (FEMesh object).
 However, the mesh can be used for other purposes than **FEM simulations**, such as **3d printing**.
+
+## Example
 
 Look at the example [run_example.m](run_example.m) which generates the following mesh:
 
