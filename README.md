@@ -25,9 +25,9 @@ Look at the example [run_example.m](run_example.m) which generates the following
 ## Compatibility
 
 * Tested with MATLAB R2018b.
-* Requires the image_toolbox (for contour detection).
-* Requires the map_toolbox (for contour simplification).
-* Requires the pde_toolbox (for meshing).
+* The `image_toolbox` is required (for contour detection).
+* The `map_toolbox` is required (for contour simplification).
+* The `pde_toolbox` is required (for meshing).
 * Compatibility with GNU Octave not tested but probably problematic.
 
 This code share some files with [laser_cut_matlab_slicer](https://github.com/otvam/laser_cut_matlab_slicer).
