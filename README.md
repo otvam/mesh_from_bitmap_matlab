@@ -10,7 +10,7 @@ This **MATLAB** code generates a **mesh** from a black and white **bitmap image*
 * Simplify the contour with a specified tolerance
 * Mesh the shape (handling of holes and multiple domains)
 
-This code uses the MATLAB PDE toolbox and generatates a FEM mesh (FEMesh object).
+This code uses the MATLAB PDE toolbox and generates a FEM mesh (FEMesh object).
 However, the mesh can be used for other purposes than **FEM simulations**, such as **3d printing**.
 
 ## Example
